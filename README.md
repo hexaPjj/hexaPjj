@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hexa</h1>
 <h3 align="center">A passionate Python and frontend developer</h3>
 
-- 🔭 I’m currently working on Multi Tool **HTOOL**
+- 🔭 I’m currently working on Multi Tool That is **HTOOL**
 
 - 🌱 I’m currently learning **C#**
 
-- 📫 How to reach me on Discord **hexadzn#hexa**
+- 📫 How to reach me on *Discord* **hexadzn#hexa**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
