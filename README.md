@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Multi Tool<br><br>🌱 I’m currently learning C#<br><br>📫 How to reach me on Discord - hexadzn#hexa
+🔭 I’m currently working on Multi Tool<br><br>🌱 I’m currently learning C#<br><br>📫 Reach me on Discord - hexadzn#hexa
 
 
 # 💻 Tech Stack:
