@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Roblox **Luau Executor**<br><br>📫 Reach me on Discord - hexadzn#hexa
+🔭 I’m currently working on **C# Design**<br><br>📫 Reach me on Discord - hexadzn#hexa
 
 
 # 💻 Tech Stack:
